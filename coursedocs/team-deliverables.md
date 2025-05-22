@@ -1,9 +1,9 @@
 # Team Deliverables
-(Links to specific documents or locations on google drive if not stored in a golder here.) Subject to revision
+(Links to specific documents or locations on google drive if not stored in a folder here.) Subject to revision
 
 ## Draft pre-class deliverables
 - Student-generated project description
-- Skill inventory (skill areas also enumerated on projects) plus resume [osama]
+- Skill inventory 
 - Project selection
 - Thesis confirmation
 
