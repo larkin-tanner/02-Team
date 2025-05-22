@@ -9,11 +9,11 @@ This is my team
 </p>
 
 ## Team links
-- [Team Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link
+- [Team Google Drive](./coursedocs/
 - [Team deliverables](/coursedocs/team-deliverables.md)
 
 ## Course links
-- [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2025/ec463/home)
+- [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2024/ec444)
 - [Blackboard](http://learn.bu.edu/)
 
 
