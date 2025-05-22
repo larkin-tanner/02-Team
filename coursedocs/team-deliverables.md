@@ -1,7 +1,8 @@
 # Team Deliverables
-(Links to specific documents or locations on google drive if not stored in a folder here.) Subject to revision
+Subject to revision (add dates to each later)
 
-## Draft fall semester deliverables (all to google drive unless indicated otherwise)
+
+## [Draft fall semester deliverables](https://drive.google.com/drive/folders/1ezv4WAZngdlgK85lX4L6MdVvFKo64H5H?usp=share_link) (all to google drive unless indicated otherwise)
 - Team photo (replace photo in team repo)
 - Team environment setup (Google, GitHub)
 - Team logbook entries (rolling IDR, to discuss)
@@ -18,7 +19,7 @@
 - Final written rollup incorporating writing tutor feedback 
 - MVP demonstration and video (3 min) 
 
-## Spring semester deliverables (all to google drive unless indicated otherwise)
+## [Spring semester deliverables](https://drive.google.com/drive/folders/1A4c_QvmA7PxdlVH22XddnKPSGJT_GDOS?usp=share_link) (all to google drive unless indicated otherwise)
 - WBS and project Gantt for spring including team sprints (upload to google drive)
 - System integration plan 
 - Amended requirements spec doc with changes
