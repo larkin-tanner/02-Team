@@ -1,4 +1,4 @@
-# 02-Team
+# 02-Team Repo
 Template for team repo
 
 <p align="center">
