@@ -9,7 +9,7 @@ This is my team
 </p>
 
 ## Team links
-- [Team Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link
+- [Team Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link)
 - [Team deliverables](/coursedocs/team-deliverables.md)
 
 ## Course links
