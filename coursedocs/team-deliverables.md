@@ -27,6 +27,4 @@ Subject to revision (add dates to each later)
 - User acceptance signoff (for base and stretch objectives)
 - Final in-person system demonstration and video
 - Tradeshow booth, poster, demo, video promotion for ECE Day
-
-## Project closeout
-- Final system report (aggregation of reports), user guide, code, submitted as tarball.
+- Project closeout: Final system report (aggregation of reports), user guide, code, submitted as tarball.
