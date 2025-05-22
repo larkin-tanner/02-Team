@@ -1,36 +1,30 @@
 # Team Deliverables
 (Links to specific documents or locations on google drive if not stored in a folder here.) Subject to revision
 
-## Draft pre-class deliverables
-- Student-generated project description
-- Skill inventory 
-- Project selection
-- Thesis confirmation
-
-## Draft fall semester deliverables
-- Individual photo 
-- Team photo 
-- Individual environment setup (Google, GitHub)
+## Draft fall semester deliverables (all to google drive unless indicated otherwise)
+- Team photo (replace photo in team repo)
 - Team environment setup (Google, GitHub)
-- Individual Logbook entries (enumerate dates)
 - Team logbook entries (rolling IDR, to discuss)
-- HW/SW Mini project output
-- User stories and market and requirements 
-- WBS and Gantt for fall (templates or Jira option)
-- Shark tank pitch (presentation) and mockup (item)
+- HW/SW Mini project output (team github)
+- User stories and market and requirements
+- Preliminary design 
+- WBS and Gantt for fall (templates to google drive or Jira option)
+- Oral presentation
+- Roll up of design/requ docs (upload to drive and to writing tutor)
+- Initial parts orders
+- Shark tank pitch (presentation) (upload to google drive) and mockup (physical item)
 - Unit work plan with mandatory elements -- requirements, units, unit test plans design tradeoffs
-- Unit testing scripts demonstration & test. (coupled with requirements/specs from earlier)
+- Unit testing scripts demonstration & test
 - Final written rollup incorporating writing tutor feedback 
-- MVP demonstration and video (3 min)
+- MVP demonstration and video (3 min) 
 
-## Spring semester deliverables
-- WBS and project Gantt for spring including team sprints
-- System integration plan
+## Spring semester deliverables (all to google drive unless indicated otherwise)
+- WBS and project Gantt for spring including team sprints (upload to google drive)
+- System integration plan 
 - Amended requirements spec doc with changes
 - System test scripts and results (meet/not meet specs), compared to user stories
 - User acceptance signoff (for base and stretch objectives)
 - Final in-person system demonstration and video
-- Peer review
 - Tradeshow booth, poster, demo, video promotion for ECE Day
 
 ## Project closeout
