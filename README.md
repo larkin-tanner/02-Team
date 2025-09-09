@@ -2,7 +2,7 @@
 Template for team repo
 
 <p align="center">
-<img src="./images/teampic.png" width="80%">
+<img src="./images/teampic.png" width="100%">
 </p>
 <p align="center">
 This is my team
